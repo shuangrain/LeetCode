@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>_515._Find_Largest_Value_in_Each_Tree_Row</RootNamespace>
+  </PropertyGroup>
+
+</Project>
