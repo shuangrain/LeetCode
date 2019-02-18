@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <RootNamespace>_637._Average_of_Levels_in_Binary_Tree</RootNamespace>
+  </PropertyGroup>
+
+</Project>

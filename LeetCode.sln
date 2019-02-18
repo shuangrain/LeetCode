@@ -9,7 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "515. Find Largest Value in 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "479. Largest Palindrome Product", "479. Largest Palindrome Product\479. Largest Palindrome Product.csproj", "{7F3785FA-2B9B-43C5-9CF3-8C0F757438EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "112. Path Sum", "112. Path Sum\112. Path Sum.csproj", "{76FA0B0E-C975-463C-9D26-64EC3528F99C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "112. Path Sum", "112. Path Sum\112. Path Sum.csproj", "{76FA0B0E-C975-463C-9D26-64EC3528F99C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "637. Average of Levels in Binary Tree", "637. Average of Levels in Binary Tree\637. Average of Levels in Binary Tree.csproj", "{BAE20019-6859-4889-9CEF-0A65DD19BA03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "949. Largest Time for Given Digits", "949. Largest Time for Given Digits\949. Largest Time for Given Digits.csproj", "{ADFC1F8A-47C0-4337-A2F2-1F57132F0CA0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{76FA0B0E-C975-463C-9D26-64EC3528F99C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76FA0B0E-C975-463C-9D26-64EC3528F99C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76FA0B0E-C975-463C-9D26-64EC3528F99C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAE20019-6859-4889-9CEF-0A65DD19BA03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAE20019-6859-4889-9CEF-0A65DD19BA03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAE20019-6859-4889-9CEF-0A65DD19BA03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAE20019-6859-4889-9CEF-0A65DD19BA03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADFC1F8A-47C0-4337-A2F2-1F57132F0CA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADFC1F8A-47C0-4337-A2F2-1F57132F0CA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADFC1F8A-47C0-4337-A2F2-1F57132F0CA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADFC1F8A-47C0-4337-A2F2-1F57132F0CA0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
